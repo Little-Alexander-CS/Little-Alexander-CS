@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-kuoma-little/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Windows Troubleshooting BAT File:</b> [Code](https://github.com/Little-Alexander-CS/WindowsTroubleshootBATCH/)
 - <b>Dice Roll Game Code:</b> [Code](https://github.com/Little-Alexander-CS/Dice-Roll-Game/)
