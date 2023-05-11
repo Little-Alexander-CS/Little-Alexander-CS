@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-kuoma-little/">IT Professional</a></h1>
+<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-kuoma-little/">IT System/Help Desk Administrator Assistant</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
