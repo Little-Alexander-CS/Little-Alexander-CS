@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-kuoma-little/">IT Analyst</a></h1>
+<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-kuoma-little/">IT Analyst!</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
